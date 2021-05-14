@@ -9,7 +9,7 @@ Tools: pandas, Matplotlib, seaborn, SciPy, scikit-learn
 - Linear regression from SciPy
 
 **Simple Linear Regression with scikit-learn**
-- Reimplemented the above but with a sci-kit learn estimator (Supervised Machine Learning)
+- Reimplemented the above but with a scikit-learn estimator (Supervised Machine Learning)
 
 **Multiple Linear Regression with scikit-learn**
 - Housing price predictions using 8 variables and a sci-kit learn estimator (Supervised Machine Learning)
