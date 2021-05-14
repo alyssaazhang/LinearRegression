@@ -5,7 +5,7 @@ Used NOAA's Weather Data At a Glance and scikit-learn's bundled California Housi
 Tools: pandas, Matplotlib, seaborn, SciPy, scikit-learn
 
 **Simple Linear Regression with SciPy**
-- Time series analysis and forecasting for average temperatures using simple linear regression
+- Time series forecasting for average temperatures using simple linear regression
 - Linear regression from SciPy
 
 **Simple Linear Regression with scikit-learn**
